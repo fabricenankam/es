@@ -1,3 +1,3 @@
 my feature1
 
-release
+release version1
